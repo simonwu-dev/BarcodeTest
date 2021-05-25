@@ -1,0 +1,2 @@
+rootProject.name = "BarcodeTest"
+include ':app'
